@@ -1,3 +1,7 @@
+
+<img width="1024" height="1536" alt="that's it" src="https://github.com/user-attachments/assets/85eadedd-dd16-4308-b311-9fd11d2907f3" />
+
+
 # Hi there, I’m Filip! 🦖
 
 ## 🍑 Economist turned Web Developer | Fruit Farmer | Passionate Skier 🎿
