@@ -1,6 +1,6 @@
 # Hi there, I’m Filip!
 
-## Economist turned Web Developer | Fruit Farmer | Passionate Skier 🎿
+## Economist turned Web Developer | Fruit Farmer | Passionate Skier
 
 ---
 
