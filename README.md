@@ -7,7 +7,7 @@
 ### About Me
 
 **Master’s in Economics**  
-After crunching numbers and solving economic mysteries, I decided to take a leap into the world of web development. Why? Because the web is just like economics—full of variables, surprises, and the occasional crash! 😅
+After crunching numbers and solving economic mysteries, I decided to take a leap into the world of web development. Why? Because the web is just like economics—full of variables, surprises, and the occasional crash!
 
 **Fruit Farmer by Day**  
 When I’m not coding, you’ll find me growing the juiciest peaches and freshest cherries on my farm. If you ever need fresh fruit or a healthy snack, you know who to call! 🍑🍒
